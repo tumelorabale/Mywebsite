@@ -13,8 +13,8 @@
 
 
 .navbar-nav > li{
-    margin-left:30px;
-    margin-right:30px;
+    margin-left:10px;
+    margin-right:10px;
     font-weight: 200;
     font-size: large;
   }
@@ -30,7 +30,7 @@ body{
 .container{
     display: grid;
     column-gap:10px;
-    grid-template-columns:  1fr 4fr 1fr;
+    grid-template-columns:  4fr 2fr;
 }
 .item{
     padding: 20px;
